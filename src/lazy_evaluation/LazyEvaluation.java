@@ -6,11 +6,6 @@ public class LazyEvaluation {
         return number*100;
     }
 
-
-
-
-
-
     public static void main(String[] args) {
         int value = 5;
 

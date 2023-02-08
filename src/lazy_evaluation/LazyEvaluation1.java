@@ -1,14 +1,9 @@
 package lazy_evaluation;
-
 public class LazyEvaluation1 {
     public static int compute(int number){
         System.out.println("Compute started...");
         return number*1000;
     }
-
-
-
-
 
     public static void main(String[] args) {
         int value = 5;

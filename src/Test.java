@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.function.Predicate;
 
-public class TotalValue {
+public class Test {
     public static int totalValueWithoutPredicate(List<Integer> numbers){
         int sum = 0;
         for (Integer num: numbers) {

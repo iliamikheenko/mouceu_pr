@@ -9,7 +9,7 @@ public class Lazy<T> {
         this.supplier = supplier;
     }
     public T get() {
-        if (instance== null) instance = supplier.get();
+        if (instance == null) instance = supplier.get();
         return instance;
     }
 
