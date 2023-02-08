@@ -9,6 +9,7 @@ public class Test {
         }
         return sum;
     }
+    //Added a special comment
     public static int totalEvenValueWithoutPredicate(List<Integer> numbers){
         int sum = 0;
         for (Integer num: numbers) {
