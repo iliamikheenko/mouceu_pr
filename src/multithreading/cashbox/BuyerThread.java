@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading.cashbox;
 
 import java.util.Queue;
 

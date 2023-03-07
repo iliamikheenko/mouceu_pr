@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading.cashbox;
 
 public class Cashbox {
     private static int generator = 1;
